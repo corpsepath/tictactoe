@@ -1,4 +1,4 @@
-Discrod: Skiharm
+Discord: Skiharm
 
 <!-- # ⭕ Tic-Tac-Toe -->
 
